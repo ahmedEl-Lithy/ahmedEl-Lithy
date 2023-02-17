@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java 8 | Spring 
-- 🌐 &nbsp; Angular 7 | Ionic 4 
+- 🌐 &nbsp; React js | react native
 - 🛢 &nbsp; MySQL | MongoDB
 - ⚙️ &nbsp; Git | Mercurial
 - 🔧 &nbsp; Docker | Jenkins | Jasper Reports
